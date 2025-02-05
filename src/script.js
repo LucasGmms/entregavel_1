@@ -1,4 +1,4 @@
-//DIA 9
+//DIA 8
 function  Calculadora (numero1, numero2, operador) {
  
 let resultado
